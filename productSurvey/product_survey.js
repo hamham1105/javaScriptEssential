@@ -1,4 +1,3 @@
-
 function submitFeedback() {
     const username = document.getElementById('name').value;
     const age = document.getElementById('age').value;
